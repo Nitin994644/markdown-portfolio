@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+- 🐶
+- 🐱
+- 🏠
+- 🐟
+
+1. choclate
+2. vanila
+3. ice crwam
